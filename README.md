@@ -15,12 +15,3 @@ I don't have good stats :(
 <a href="https://github.com/Nitestack">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitestack&theme=transparent&hide_border=true" />
 </a>
-
-## Useful repos
-
-<a href="https://github.com/Nitestack/nvim">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitestack&repo=nvim&theme=transparent&hide_border=true&show_owner=true" />
-</a>
-<a href="https://github.com/Nitestack/project-manager">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitestack&repo=project-manager&theme=transparent&hide_border=true&show_owner=true" />
-</a>
