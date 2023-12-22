@@ -16,5 +16,5 @@ I don't have good stats :(
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nitestack&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/Nitestack">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitestack&theme=transparent&hide_border=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitestack&theme=transparent&hide_border=true&layout=compact&card_width=320" />
 </a>
