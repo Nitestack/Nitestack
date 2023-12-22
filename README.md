@@ -1,8 +1,11 @@
 # Hi, welcome!
 
 I'm **N**han
+
 I like building webs**ite**s, better full-**stack** web applications.
+
 Ultimately just a guy with a passion for programming.
+
 [Using Neovim btw](https://twitter.com/ThePrimeagen/status/1649452594417336326)
 
 ## Stats
