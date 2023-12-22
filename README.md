@@ -19,10 +19,8 @@ I don't have good stats :(
 ## Useful repos
 
 <a href="https://github.com/Nitestack/nvim">
-  <h3 align="center"> Neovim Configuration </h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitestack&repo=nvim&theme=transparent&hide_border=true&show_owner=true" />
 </a>
 <a href="https://github.com/Nitestack/project-manager">
-  <h3 align="center"> Project Manager </h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitestack&repo=project-manager&theme=transparent&hide_border=true&show_owner=true" />
 </a>
