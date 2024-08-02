@@ -4,8 +4,8 @@
   <a href="https://github.com/Nitestack">Github</a>
 </p>
 
-- **Status**: 🎓 Student (👨 Male `18`)
-- **Location**: 🇩🇪 Hamburg, Germany
+- **Status**: 🎓 Dual Student in Apprencticeship (👨 Male `18`)
+- **Location**: 🇩🇪 Dortmund, Germany
 - **Hobbies**: 💻 Programming, 🎹 Playing the Piano, ✈️ Travelling
 - **Preferred Code Editor**: ⚡ Neovim
 - **Currently Exploring**: 🧑‍💻 Arch Linux
