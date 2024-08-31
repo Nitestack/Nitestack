@@ -4,11 +4,11 @@
   <a href="https://github.com/Nitestack">Github</a>
 </p>
 
-- **Status**: 🎓 Dual Student in Apprencticeship (👨 Male `18`)
+- **Status**: 🎓 [Dual Student](https://www.learngermanonline.org/dual-studies-in-germany-for-international-students) in Apprenticeship (👨 Male `18`)
 - **Location**: 🇩🇪 Dortmund, Germany
 - **Hobbies**: 💻 Programming, 🎹 Playing the Piano, ✈️ Travelling
 - **Preferred Code Editor**: ⚡ Neovim
-- **Currently Exploring**: 🧑‍💻 Arch Linux
+- **Currently Exploring**: 🧑‍💻 NixOS
 
 ---
 
