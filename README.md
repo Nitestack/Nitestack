@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Nhan.</h2>
 <p align="center">
-  <a href="https://nhanpham.vercel.app">Website</a> •
+  <a href="https://nhanpham.me">Website</a> •
   <a href="https://github.com/Nitestack">Github</a>
 </p>
 
