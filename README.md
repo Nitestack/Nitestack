@@ -2,8 +2,7 @@
 <p align="center">
   <a href="https://npham.de">Website</a> •
   <a href="https://github.com/Nitestack">GitHub</a> •
-  <a href="https://gitlab.com/Nitestack">GitLab</a> •
-  <a href="https://git.npham.de">Gitea</a>
+  <a href="https://gitlab.com/Nitestack">GitLab</a>
 </p>
 
 - **Status**: 🎓 [Dual Student](https://www.learngermanonline.org/dual-studies-in-germany-for-international-students) in Apprenticeship (👨 Male `19`)
